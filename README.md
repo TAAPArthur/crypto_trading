@@ -11,3 +11,6 @@ for x in db.getSnapshotsInfo(Symbols.BTCUSD,A,B):
 
 #Graphing
 See graph.py
+
+#Dependencies
+pip3 install --user mysql-connector websocket websocket-client
